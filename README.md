@@ -20,6 +20,10 @@ It demonstrates key concepts of computer networks, multithreading, and real-time
 ✅ Congestion detection
 ✅ Alternate route suggestions
 ✅ Input validation
+
+
+
+
 🧠 How It Works
 Client sends:
 Source (e.g., NORTH)
@@ -32,10 +36,16 @@ Decides:
 ❌ Heavy Traffic + Alternate Route
 Server sends response to client
 Traffic data updates dynamically
+
+
+
 🏗️ Tech Stack
 Language: Python
 Networking: TCP Socket Programming
 Concurrency: Multithreading
+
+
+
 How to Run
 Install Python (3.x)
 Download/clone the project
